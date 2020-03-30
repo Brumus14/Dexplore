@@ -1,0 +1,114 @@
+Dexplore enemy ideas
+
+
+=========================
+        ENEMIES
+=========================
+AREA 1
+
+Runt - Demons who take the form of weak, Pig-like beings. Why this happens is reealed later in the
+game.
+Health Range: 5-15
+Armour Range: 0-2
+Damage Range: 1-3
+Counter Chance: 0%
+Speed Range: 1-4
+Crit. Chance: 1% 
+Attacks: Attack, Bite
+
+Loba - Floating Brains, like Metroids whose origins are unknown.
+Health Range: 7-19
+Armour Range: 0
+Damage Range: 3-8
+Counter Chance: 5%
+Speed Range: 2-6
+Crit. Chance: 2% - 4%
+Attacks: Attack, Ram
+Abilities: Heal
+
+Gheist: Rare, Powerful Dark Souls that were born from the evil in human beings.
+Health Range: 30-50
+Armour Range: 10-15
+Counter Chance: 20%
+Speed Range: 10-15
+Crit. Chance: 1% - 5%
+Attacks: Attack, Reap
+Abilities: Life-Drain
+
+Sroll - Large Armadillos that have a very strong armour.
+Health Range: 3-5
+Armour Range: 20
+Damage Range: 2-4
+Counter Chance: 10%
+Speed Range: 1
+Crit. Chance: 2% 
+Attacks: Attack, Claw, Roll
+Abilities: Ball-Up
+
+Sitizan - A Normal citizen of Rhydnyl possessed by a demon. Killing a Sitizan kills the 
+demon instead of the citizan, and you're congratulated for doing so.
+Health Range: 5-15
+Armour Range: 0-4
+Damage Range: 5-10
+Counter Chance: 3%
+Speed Range: 4-6
+Crit. Chance: 2% 
+Attacks: Attack, Punch
+
+
+
+===============================
+            BOSSES
+===============================
+
+AREA 1:
+
+King Runt (Champion of peons) - A large, Fat Runt. Later in the game, it is revealed that he is the Devil who became
+a Runt because his incarnation was foiled by a foolish knight of the King.
+Health: 250
+Armour: 10
+Damage Range: 10-20 (50 from a super squish)
+Counter Chance: 5%
+Speed: 1
+Crit. Chance: 4% 
+Attacks: Attack
+Abilities: Runt-Muster
+Crack Attack: Super Squish:
+King Runt stretches out as far as he can to make himself as big as possible, then topples over and 
+flattens the player as well as anyone else in the party. Deals tremendous damage and can kill.
+
+Kafkin (The Black Joker) (FINAL) - A rejected court jester turned insane after he allowed demons 
+into his body in his quest to seek revenge against the King of Rhydnyl for rejecting him as a jester.
+Health: 500
+Armour: 5
+Damage Range: 20-40 (100 from a successful Fake-Out)
+Counter Chance: 5%
+Speed: 15
+Crit. Chance: 3% 
+Attacks: Attack, Demonic Spears
+Abilities: Demonic Shield, Demonic Boost
+Crack Attack: Fake-Out:
+Kafkin uses a Satanic ritual to summon 5 variations of himself to disguise himself. 
+There are small differences between the copy and the real Kafkin. Attacking the real Kafkin will kill all of the other copys,
+whereas attacking a fake gives the real Kafkin a free hit on the player, and that hit is a brutal one.
+
+AREA 2:
+
+
+Aryndul (The Twisted Wizard) (FINAL) - A dark Warlock who rules over the poor land of Krendim, and who soon
+hopes to rule over the whole kingdom.
+Health: 750
+Armour: 10 (30 while using Warlock's Shield for 1 turn)
+Damage Range: 5-7 (666 from Warlock Punch, 30 poison damage from Hellrazer) 
+Counter Chance: 7%
+Speed Range: 9
+Crit. Chance: 4% 
+Attacks: Attack
+Abilities: Warlock's shield, Hellrazer
+Crack Attack: Warlock Punch:
+Aryndul charges up a powerful punch over 3 attacks. When it is ready, he will unleash the attack on the party,
+dealing devastating damage and stunning those who don't die from it. However, he becomes stunned for longer than
+the player, which allows the player to recover with heals if they have any.
+
+
+
